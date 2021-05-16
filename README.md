@@ -109,4 +109,4 @@ nbtn.pack(side = "left",padx=180,fill = X)
 gbtn = tk.Button(root, text="Show graph", font="Consolas 15 bold", height=2, width=10, relief = 'solid', command=showdata)
 gbtn.pack(side = "left",fill = X)
 
-root.mainloop(
+root.mainloop()
